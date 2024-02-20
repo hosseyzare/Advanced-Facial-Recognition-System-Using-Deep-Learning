@@ -1,0 +1,2 @@
+# Advanced-Facial-Recognition-System-Using-Deep-Learning
+This project develops an advanced facial recognition system leveraging the power of convolutional neural networks (CNNs) and PyTorch, one of the leading deep learning libraries. The system preprocesses facial images from the YaleB dataset, applies image transformations for augmentation, and implements a CNN model for accurate facial recognition.
